@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "energy-lib"
-version = "0.1.0"
+version = "0.1.3"
 description = "The library for CPP project Electricity Monitor"
 authors = [
     { name = "Zhao Zhang"}
